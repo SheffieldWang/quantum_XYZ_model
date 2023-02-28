@@ -1,6 +1,6 @@
-# Quantum Circuit Optimization for the Heisenberg Model.
+# Quantum Model for the Heisenberg Model.
 
-
+Project for qhack2023
 
 This project proposes a novel quantum circuit architecture similar to the `BasicEntanglerLayers` to optimize the Heisenberg model, we called `XYZ`-circuit.
 
