@@ -19,7 +19,7 @@ Assuming that the circuit consists of $n$ qubits,the model is composed of two pa
 
 
 - Each qubit is subjected to a U3 gate.
-- Between the $i$-th and $(i+1)$-th qubits, there are `IsingXX`, `IsingYY`, and `IsingZZ` gates (where $(n+1) = 1$).
+- Between the $i$-th and $(i+1)$-th qubits, there are `IsingXX`, `IsingYY`, and `IsingZZ` gates.
 
 
 The following is a circuit diagram of an $4$-qubit XYZ circuit.
