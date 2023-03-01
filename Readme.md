@@ -30,7 +30,7 @@ The following is a circuit diagram of an $4$-qubit XYZ circuit.
 The cost function optimized using this model drops as shown in the following figure. It can be seen that the algorithm can reach a global minimum.
 
 
-![](loss.png)
+![](img/loss.png)
 
 ## Reaching global minumum 
 
